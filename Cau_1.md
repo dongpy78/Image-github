@@ -5,7 +5,7 @@
 
 <div width="100%">
   <span>
-    ➡️ Link source 
+    ➡️ Link source:  
   <span>
     <a target="_blank" href="https://github.com/cszach/Raydiance">github.com</a>
   </span>
@@ -14,7 +14,7 @@
 
 <div width="100%">
   <span>
-    ➡️ Link slide
+    ➡️ Link slide: 
   <span>
     <a target="_blank" href="https://github.com/cszach/Raydiance">github.com</a>
   </span>
@@ -24,7 +24,7 @@
 <br/>
 
 <div>
-  <img align="right" alt="Bred the penguin chillin' by the fire." height="auto" width="400" src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+  <img align="right" alt="Bred the penguin chillin' by the fire." height="auto" width="500" src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 
   <div>
     <p>💥 App dùng để tính BMI </p>
@@ -41,7 +41,7 @@
 <br/>
 
 <div>
-  <img align="right" alt="Bred the penguin chillin' by the fire." height="auto" width="400" src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+  <img align="right" alt="Bred the penguin chillin' by the fire." height="auto" width="500" src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 
   <div>
     <p>💥 App dùng để tính BMI </p>
