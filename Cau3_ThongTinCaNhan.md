@@ -28,9 +28,22 @@
 
   <div>
     <p>
-      App Travel Việt Nam dùng để giới thiệu các địa điểm du lịch Việt Nam và những địa điểm du lịch mà mình đã từng đặt chân đến.
-      Giao diện chính đầu tiên và 2 CardView để chứa thông tin “Du Lịch Việt Nam” và “Những Nơi Đã Đến”   
+      Phần 1: Giao diện hiển thị thông tin cá nhân
+      Giới thiệu thông tin cá nhân và sau khi ấn vào nút “SHOW INFO” thì hiển thị thông tin cá nhân lên màn hình.
     </p>
+     <p>
+      Phần 2: Giao diện hiển thị các kĩ năng
+    </p>
+     <p>
+      Phần 2: Giao diện hiển thị các kĩ năng
+    </p>
+    <p>
+      Phần 3: Giao diện hiển thị các câu nói truyền cảm hứng
+    </p>
+     <p>
+      Phần 4. Giao diện Contact
+    </p>
+    
     
 
 
