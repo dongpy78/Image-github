@@ -28,10 +28,24 @@
 
   <div>
     <p>
-      - App Calculator dùng để tính toán các phép toán số học đơn giản. Bao gồm các phép toán như cộng, trừ nhân chia, chia lấy phần dư. 
-    - App có các tính năng như xóa 1 kí tự, xóa hết màn hình, và hiển thị kết quả sau khi thực hiện phép tính lên màn hình 
-    - Dưới đây là kết quả chạy chương trình
-- Chú thích: Dấu “←” là xóa 1 ký tự trên màn hình, C là xóa hết màn hình, còn “00” là nhập 2 số “00” cùng một lúc, dấu “.” là nhập số thập phân
+      - App Calculator dùng để tính toán các phép toán số học đơn giản. Bao gồm các phép toán như cộng, trừ nhân chia, chia lấy phần dư.    
     </p>
+     <p>
+      - App Calculator dùng để tính toán các phép toán số học đơn giản. Bao gồm các phép toán như cộng, trừ nhân chia, chia lấy phần dư.     
+    </p>
+     <p>
+      - App có các tính năng như xóa 1 kí tự, xóa hết màn hình, và hiển thị kết quả sau khi thực hiện phép tính lên màn hình 
+    </p>
+    <p>
+      - Chú thích: Dấu “←” là xóa 1 ký tự trên màn hình, C là xóa hết màn hình, còn “00” là nhập 2 số “00” cùng một lúc, dấu “.” là nhập số thập phân
+    </p>
+
+
+
+    
+    
+
+    
   </div>
+  
 </div>
