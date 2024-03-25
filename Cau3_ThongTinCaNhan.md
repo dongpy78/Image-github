@@ -25,7 +25,7 @@
   <span>
     ➡️ Link Figma: 
   <span>
-    <a target="_blank" href="https://docs.google.com/document/d/1yWZEl5trysnljfktaVmwpnXN-bxUvvMOmTG-J_VacwA/edit?usp=sharing">google.com</a>
+    <a target="_blank" href="https://www.figma.com/file/JrI35GNJ0uIzVR5uOy1GDG/Personal-Infomation?type=design&node-id=0-1&mode=design&t=JcTex7FBJOUMAnxB-0">google.com</a>
   </span>
 </span>
 </div>
