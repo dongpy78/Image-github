@@ -21,6 +21,15 @@
 </span>
 </div>
 
+<div width="100%">
+  <span>
+    ➡️ Link Figma: 
+  <span>
+    <a target="_blank" href="https://docs.google.com/document/d/1yWZEl5trysnljfktaVmwpnXN-bxUvvMOmTG-J_VacwA/edit?usp=sharing">google.com</a>
+  </span>
+</span>
+</div>
+
 <br/>
 
 <div>
