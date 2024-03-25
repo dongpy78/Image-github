@@ -29,19 +29,9 @@
   <div>
     <p>
       App Travel Việt Nam dùng để giới thiệu các địa điểm du lịch Việt Nam và những địa điểm du lịch mà mình đã từng đặt chân đến.
-      Giao diện chính đầu tiên và 2 CardView để chứa thông tin “Du Lịch Việt Nam” và “Những Nơi Đã Đến”
-   
+      Giao diện chính đầu tiên và 2 CardView để chứa thông tin “Du Lịch Việt Nam” và “Những Nơi Đã Đến”   
     </p>
-     <p>
-      - App Calculator dùng để tính toán các phép toán số học đơn giản. Bao gồm các phép toán như cộng, trừ nhân chia, chia lấy phần dư.     
-    </p>
-     <p>
-      - App có các tính năng như xóa 1 kí tự, xóa hết màn hình, và hiển thị kết quả sau khi thực hiện phép tính lên màn hình 
-    </p>
-    <p>
-      - Chú thích: Dấu “←” là xóa 1 ký tự trên màn hình, C là xóa hết màn hình, còn “00” là nhập 2 số “00” cùng một lúc, dấu “.” là nhập số thập phân
-    </p>
-
+    
 
 
     
