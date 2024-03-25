@@ -5,7 +5,7 @@
 
 <div width="100%">
   <span>
-    ➡️ Link source:  
+    ➡️ Link source code:  
   <span>
     <a target="_blank" href="https://github.com/cszach/Raydiance">github.com</a>
   </span>
@@ -14,9 +14,9 @@
 
 <div width="100%">
   <span>
-    ➡️ Link slide: 
+    ➡️ Link google docs: 
   <span>
-    <a target="_blank" href="https://github.com/cszach/Raydiance">github.com</a>
+    <a target="_blank" href="https://docs.google.com/document/d/1rIkcJH8zGhm4yXUneRIh9SMAhoZLc3hjLPjSXRB3W5c/edit?usp=sharing">google.com</a>
   </span>
 </span>
 </div>
