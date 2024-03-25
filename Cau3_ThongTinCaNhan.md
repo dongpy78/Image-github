@@ -24,7 +24,7 @@
 <br/>
 
 <div>
-  <img align="right" alt="Bred the penguin chillin' by the fire." height="auto" width="400" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20201411.png" />
+  <img align="right" alt="Bred the penguin chillin' by the fire." height="auto" width="400" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20231123.png" />
 
   <div>
     <p>
