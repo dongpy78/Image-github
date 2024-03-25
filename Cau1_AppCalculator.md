@@ -24,11 +24,14 @@
 <br/>
 
 <div>
-  <img align="right" alt="Bred the penguin chillin' by the fire." height="auto" width="500" src="https://github.com/dongpy78/Image-github/blob/main/Cau_1/Screenshot%202024-03-24%20145118.png" />
+  <img align="right" alt="Bred the penguin chillin' by the fire." height="auto" width="400" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20200129.png" />
 
   <div>
     <p>
-      App Calculator sử dụng ngôn ngữ Java Swing, app này sử dụng với mục đích dùng để tính toán các phép toán số học đơn giản.
+      - App Calculator dùng để tính toán các phép toán số học đơn giản. Bao gồm các phép toán như cộng, trừ nhân chia, chia lấy phần dư. 
+    - App có các tính năng như xóa 1 kí tự, xóa hết màn hình, và hiển thị kết quả sau khi thực hiện phép tính lên màn hình 
+    - Dưới đây là kết quả chạy chương trình
+- Chú thích: Dấu “←” là xóa 1 ký tự trên màn hình, C là xóa hết màn hình, còn “00” là nhập 2 số “00” cùng một lúc, dấu “.” là nhập số thập phân
     </p>
   </div>
 </div>
