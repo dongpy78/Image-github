@@ -7,7 +7,7 @@
   <span>
     ➡️ Link source code:  
   <span>
-    <a target="_blank" href="https://github.com/dongpy78/63133727-AndroidProgramming/tree/main/Cau2_TravelVietNam">github.com</a>
+    <a target="_blank" href="https://github.com/dongpy78/63133727-AndroidProgramming/tree/main/Cau3_GioiThieuBanThan">github.com</a>
   </span
 </span>
 </div>
@@ -16,7 +16,7 @@
   <span>
     ➡️ Link google docs: 
   <span>
-    <a target="_blank" href="https://docs.google.com/document/d/1AOeAZDzSkdBgv_eUvWsNIC3YFwWK9_daXqRZ3MtnzuI/edit?usp=sharing">google.com</a>
+    <a target="_blank" href="https://docs.google.com/document/d/1yWZEl5trysnljfktaVmwpnXN-bxUvvMOmTG-J_VacwA/edit?usp=sharing">google.com</a>
   </span>
 </span>
 </div>
